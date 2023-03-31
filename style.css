@@ -266,7 +266,7 @@
 
     .navig {
         background-color: rgb(219, 32, 188);
-        width: 350px;
+        width: 360px;
         height: 300px;
 
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -297,9 +297,13 @@
         margin-left: 15px;
     }
 
-    .foolsh {
-        width: 250px;
-        height: 300px;
+    .foolish {
+        width: 200px;
+        height: 400px;
+    }
+    h2{
+        width: 30px;
+        height: 70px;
     }
 
     .blue {
