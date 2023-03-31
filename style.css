@@ -297,14 +297,11 @@
         margin-left: 15px;
     }
 
-    .foolish {
+    .foolsh {
         width: 200px;
         height: 400px;
     }
-    h2{
-        width: 30px;
-        height: 70px;
-    }
+  
 
     .blue {
         display: flex;
