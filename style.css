@@ -240,7 +240,7 @@
 
     .centre {
         background-color: rgb(141, 153, 35);
-        width: 390px;
+        width: 380px;
         height: 300px;
         display: flex;
         justify-content: center;
@@ -266,7 +266,7 @@
 
     .navig {
         background-color: rgb(219, 32, 188);
-        width: 390px;
+        width: 370px;
         height: 300px;
 
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -285,7 +285,7 @@
 
     .fot2 {
         margin-left: 15px;
-        height: 350px;
+        height: 360px;
     }
 
     .fot3 {
@@ -312,7 +312,7 @@
         height: 600px;
         margin-top: 5px;
         padding: 50px 30px 20px 20px;
-        width: 360px;
+        width: 350px;
         height: auto;
     }
 
@@ -327,7 +327,7 @@
     .sameersheikh {
         background-color: rgb(88, 105, 24);
         /* margin-top: 200px; */
-        width: 340px;
+        width: 330px;
         height: 300px;
         padding: 20px 20px 20px 20px;
     }
@@ -342,10 +342,12 @@
 
         margin-left: 50px;
         color: aliceblue;
+        margin-left: 15px;
     }
 
     .childbanner2 {
         color: white;
+        margin-left: -5px;
     }
 
 
